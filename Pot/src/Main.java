@@ -1,5 +1,3 @@
-import java.math.BigInteger;
-
 /**
  * Created by Nick on 18.10.2018.
  */
