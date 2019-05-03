@@ -20,8 +20,7 @@ public class Main {
     }
 
     private void loop() {
-        double a = 1;
-        double b = 1;
+        double a = 1, b = 1;
         long n = 0;
         double m = 0;
         while(a <= b) {
